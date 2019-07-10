@@ -1,6 +1,8 @@
 using System;
-public static void Main ()
-
+class Solution
 {
-System.write("Hi there")
+  static void Main(String[] args)
+  {
+    Console.WriteLine("Hello World!");
+  }
 }
