@@ -3,6 +3,6 @@ class Solution
 {
   static void Main(String[] args)
   {
-    Console.WriteLine("Hello Teams!");
+    Console.WriteLine("Hello Teams!!");
   }
 }
