@@ -3,6 +3,10 @@ class Solution
 {
   static void Main(String[] args)
   {
+<<<<<<< HEAD
     Console.WriteLine("Hello Teams!, this is a new-commits");
+=======
+    Console.WriteLine("Hello Teams!!");
+>>>>>>> 0be301e50ae1202b36a176a6c76c5828d1575149
   }
 }
